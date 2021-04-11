@@ -6,7 +6,6 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    /* falta revisar, código display, justify, aling */
     }
 
 .rectangle1 {
@@ -20,7 +19,6 @@
     text-align: center;
     padding: 3px;
     margin: 10px;
-    /* falta revisar, los tres rectángulos pequeños */
     }
 
 .rectangle2 {
@@ -34,7 +32,6 @@
     text-align: center;
     padding: 3px;
     margin: 10px;
-    /* falta revisar, los tres rectángulos pequeños */
     }
 
 .rectangle3 {
@@ -48,7 +45,6 @@
     text-align: center;
     padding: 3px;
     margin: 10px;
-    /* falta revisar, el código display */
     }
     
 .circle {

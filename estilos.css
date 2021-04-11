@@ -1,0 +1,100 @@
+.rectangle {
+    width: auto;
+    height: 110px;
+    border: 5px rgba(233, 50, 17, 0.719) solid;
+    background-color: black;  
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* falta revisar, código display, justify, aling */
+    }
+
+.rectangle1 {
+    width: 60px;
+    height: 20px;
+    background-color: rgb(12, 11, 11);
+    border: 4px white solid ;
+    border-radius: 10%;
+    color: crimson;
+    font-size: 15px;
+    text-align: center;
+    padding: 3px;
+    margin: 10px;
+    /* falta revisar, los tres rectángulos pequeños */
+    }
+
+.rectangle2 {
+    width: 60px;
+    height: 20px;
+    background-color: rgb(12, 11, 11);
+    border: 4px white solid ;
+    border-radius: 10%;
+    color: crimson;
+    font-size: 15px;
+    text-align: center;
+    padding: 3px;
+    margin: 10px;
+    /* falta revisar, los tres rectángulos pequeños */
+    }
+
+.rectangle3 {
+    width: 60px;
+    height: 20px;
+    background-color: rgb(12, 11, 11);
+    border: 4px white solid ;
+    border-radius: 10%;
+    color: crimson;
+    font-size: 15px;
+    text-align: center;
+    padding: 3px;
+    margin: 10px;
+    /* falta revisar, el código display */
+    }
+    
+.circle {
+    width: 150px;
+    height: 150px;
+    background-color: black;
+    border-radius: 1000px;
+    border: 8px solid rgb(252, 251, 250);
+    margin: auto;
+    box-shadow: 10px 5px 16px slategray;
+    }
+
+.square {
+    width: 150px;
+    height: 150px;
+    background-color: skyblue;
+    margin: auto;
+    box-shadow: 10px 5px 8px slategray;
+    }
+
+.triangle {
+    width: 0;
+    height: 0;
+    border-left: 150px solid rgb(32, 189, 228);
+    border-top: 70px solid rgb(235, 190, 107);
+    border-bottom: 70px solid rgb(189, 64, 64);
+    margin: auto;
+    box-shadow: 10px 5px 8px slategray;
+    }
+
+.softcircle { 
+    width: 0;
+    height: 0;
+    border-top: 80px rgba(240, 196, 51, 0.973) solid;
+    border-left: 80px skyblue solid;
+    border-bottom: 80px rgba(185, 57, 48, 0.863) solid;
+    border-right: 80px solid transparent;
+    -moz-border-radius: 125%;
+    -webkit-border-radius: 125%;
+    border-radius: 150%;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: -10px 5px 9px slategray;
+    }
+
+h1{
+    text-align: center;
+}
+

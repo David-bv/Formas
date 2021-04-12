@@ -82,8 +82,6 @@
     border-left: 80px skyblue solid;
     border-bottom: 80px rgba(185, 57, 48, 0.863) solid;
     border-right: 80px solid transparent;
-    -moz-border-radius: 125%;
-    -webkit-border-radius: 125%;
     border-radius: 150%;
     margin-left: auto;
     margin-right: auto;
